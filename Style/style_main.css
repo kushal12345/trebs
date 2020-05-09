@@ -1,0 +1,67 @@
+element.style {
+  background-image: url('assets/mainbanner.jpg');
+}
+
+header.masthead {
+  margin-bottom: 50px;
+  background: no-repeat 50%;
+  background-color: #6c757d;
+  background-attachment: scroll;
+  position: relative;
+  background-size: cover;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-size: 20px;
+  color: #212529;
+  font-family: Lora,Times New Roman,serif;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+  background-color: #fff;
+
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+
+}
+.features-icons {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+.text-center {
+  text-align: center!important;
+}
+.bg-light {
+  background-color: #f8f9fa!important;
+
+}
+.mb-5{
+  padding-top:5rem;
+}
+.showcase-text,.testimonial-item{
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+.showcase-text > h2,.lead{
+  text-align: center;
+  padding: 5px;
+}
+
+.footer{
+  
+}
